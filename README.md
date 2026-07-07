@@ -145,9 +145,10 @@ Make sure your webcam is connected and accessible.
 
 ---
 
-## 📸 Demo
+## 📊 
+Flow Chart
 
-Add screenshots, GIFs, or a short demo video here.
+<img width="1408" height="768" alt="flowchart" src="https://github.com/user-attachments/assets/9f545585-001e-4d6f-86e9-a8b1928833ab" />
 
 ---
 
