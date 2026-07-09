@@ -52,7 +52,7 @@ GestureFlow/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/GestureFlow.git
+git clone https://github.com/Aash-hasFallen/GestureFlow.git
 cd GestureFlow
 ```
 
